@@ -89,181 +89,139 @@ hospital-management-system/
 
 ---
 
+
 ## 📸 Screenshots
 
 <table>
-<tr>
-<td width="50%">
-
-**Auth**
-<img width="100%" alt="Auth screen" src="https://github.com/user-attachments/assets/b4a9cc0b-097c-4e27-9767-942038e4405d" />
-
-</td>
-<td width="50%">
-
-**Admin Dashboard**
-<img width="100%" alt="Admin dashboard" src="https://github.com/user-attachments/assets/1e600b17-6523-4cea-9150-ed8e60a95513" />
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-**Create User**
-<img width="100%" alt="Create user" src="https://github.com/user-attachments/assets/792198c4-7109-45ab-991b-e7af5692d1e5" />
-
-</td>
-<td width="50%">
-
-**Doctors**
-<img width="100%" alt="Doctors list" src="https://github.com/user-attachments/assets/a80f8990-009a-4689-93b2-954f1a75b2af" />
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-**Add Doctor**
-<img width="100%" alt="Add doctor" src="https://github.com/user-attachments/assets/9a8eeae7-54cb-4c87-aa61-23e9ee989b3f" />
-
-</td>
-<td width="50%">
-
-**Doctor Dashboard**
-<img width="100%" alt="Doctor dashboard" src="https://github.com/user-attachments/assets/ac518e33-c66e-4f9c-856b-0723d8b936ad" />
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-**Patients**
-<img width="100%" alt="Patients list" src="https://github.com/user-attachments/assets/ac2dba17-a05d-4cb6-baea-cea8fc282fc9" />
-
-</td>
-<td width="50%">
-
-**Add Patient**
-<img width="100%" alt="Add patient" src="https://github.com/user-attachments/assets/f230d184-26f0-4ddc-a15c-bb4bde9abbe5" />
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-**Appointments**
-<img width="100%" alt="Appointments list" src="https://github.com/user-attachments/assets/b92bc3df-3bc1-41d0-8c1c-f30f62af83dc" />
-
-</td>
-<td width="50%">
-
-**Book Appointment**
-<img width="100%" alt="Book appointment" src="https://github.com/user-attachments/assets/0d29a688-7c5e-4e1b-bfa7-76d08b467287" />
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-**Add Availability**
-<img width="100%" alt="Add availability" src="https://github.com/user-attachments/assets/7dce33d4-9a6d-4684-83ae-4ba9fa402ec0" />
-
-</td>
-<td width="50%">
-
-**Visit Detail**
-<img width="100%" alt="Visit detail" src="https://github.com/user-attachments/assets/828bccc8-8063-4304-a042-5cda58f40f65" />
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-**Write Prescription**
-<img width="100%" alt="Write prescription" src="https://github.com/user-attachments/assets/5581693e-3730-4d09-9bf2-b9a7ca8600b6" />
-
-</td>
-<td width="50%">
-
-**Pharmacy Home**
-<img width="100%" alt="Pharmacy home" src="https://github.com/user-attachments/assets/03cf0b35-4853-4cb2-ba61-9bf249eef9ef" />
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-**Add Medicine**
-<img width="100%" alt="Add medicine" src="https://github.com/user-attachments/assets/b09b5d11-4170-4213-8e2a-0951c83fdae4" />
-
-</td>
-<td width="50%">
-
-**Add Stock**
-<img width="100%" alt="Add stock" src="https://github.com/user-attachments/assets/aa2daa2f-79ff-4f64-aecb-dd54a47063a3" />
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-**Expiring Stock**
-<img width="100%" alt="Expiring stock" src="https://github.com/user-attachments/assets/9bfa6ee4-f4bf-4d39-8153-64b4bbeb0677" />
-
-</td>
-<td width="50%">
-
-**Available Stock**
-<img width="100%" alt="Available stock" src="https://github.com/user-attachments/assets/1ef63880-2655-43a1-9599-5f9ff6500a96" />
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-**Dispense Prescription**
-<img width="100%" alt="Dispense prescription" src="https://github.com/user-attachments/assets/366ce9c7-86c3-4edb-9953-a6333889c843" />
-
-</td>
-<td width="50%">
-
-**Lab Tests**
-<img width="100%" alt="Lab tests" src="https://github.com/user-attachments/assets/480252d3-4fe2-4fee-bdb9-e313d18bc69e" />
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-**Lab Technician**
-<img width="100%" alt="Lab technician" src="https://github.com/user-attachments/assets/95bc99be-2c41-4194-b4dc-1ac5a63aa85f" />
-
-</td>
-<td width="50%">
-
-**Billing**
-<img width="100%" alt="Billing" src="https://github.com/user-attachments/assets/87989418-e1f7-474b-b863-aa1b51cc104a" />
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-**Receptionist Dashboard**
-<img width="100%" alt="Receptionist dashboard" src="https://github.com/user-attachments/assets/1f62cf73-36c2-4d6d-b50a-94bfe0299337" />
-
-</td>
-<td width="50%">
-
-**Add Lab Result**
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/5d58475b-ea8e-4e0c-b848-74952a49fd5b" />
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/071fd727-a26b-4cdf-8508-e19c42f563a3" />
-
-
-</td>
-</tr>
+  <tr>
+    <td width="50%">
+      <p align="center"><b>Auth</b></p>
+      <img width="100%" alt="Auth screen" src="https://github.com/user-attachments/assets/b4a9cc0b-097c-4e27-9767-942038e4405d" />
+    </td>
+    <td width="50%">
+      <p align="center"><b>Admin Dashboard</b></p>
+      <img width="100%" alt="Admin dashboard" src="https://github.com/user-attachments/assets/1e600b17-6523-4cea-9150-ed8e60a95513" />
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <p align="center"><b>Create User</b></p>
+      <img width="100%" alt="Create user" src="https://github.com/user-attachments/assets/792198c4-7109-45ab-991b-e7af5692d1e5" />
+    </td>
+    <td width="50%">
+      <p align="center"><b>Add Doctor</b></p>
+      <img width="100%" alt="Add doctor" src="https://github.com/user-attachments/assets/9a8eeae7-54cb-4c87-aa61-23e9ee989b3f" />
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <p align="center"><b>Doctors List</b></p>
+      <img width="100%" alt="Doctors list" src="https://github.com/user-attachments/assets/a80f8990-009a-4689-93b2-954f1a75b2af" />
+    </td>
+    <td width="50%">
+      <p align="center"><b>Receptionist Dashboard</b></p>
+      <img width="100%" alt="Receptionist dashboard" src="https://github.com/user-attachments/assets/1f62cf73-36c2-4d6d-b50a-94bfe0299337" />
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <p align="center"><b>Add Patient</b></p>
+      <img width="100%" alt="Add patient" src="https://github.com/user-attachments/assets/f230d184-26f0-4ddc-a15c-bb4bde9abbe5" />
+    </td>
+    <td width="50%">
+      <p align="center"><b>Patients Directory</b></p>
+      <img width="100%" alt="Patients list" src="https://github.com/user-attachments/assets/ac2dba17-a05d-4cb6-baea-cea8fc282fc9" />
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <p align="center"><b>Add Doctor Availability</b></p>
+      <img width="100%" alt="Add availability" src="https://github.com/user-attachments/assets/7dce33d4-9a6d-4684-83ae-4ba9fa402ec0" />
+    </td>
+    <td width="50%">
+      <p align="center"><b>Book Appointment</b></p>
+      <img width="100%" alt="Book appointment" src="https://github.com/user-attachments/assets/0d29a688-7c5e-4e1b-bfa7-76d08b467287" />
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <p align="center"><b>Appointments List</b></p>
+      <img width="100%" alt="Appointments list" src="https://github.com/user-attachments/assets/b92bc3df-3bc1-41d0-8c1c-f30f62af83dc" />
+    </td>
+    <td width="50%">
+      <p align="center"><b>Doctor Dashboard</b></p>
+      <img width="100%" alt="Doctor dashboard" src="https://github.com/user-attachments/assets/ac518e33-c66e-4f9c-856b-0723d8b936ad" />
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <p align="center"><b>Patient Visit Detail</b></p>
+      <img width="100%" alt="Visit detail" src="https://github.com/user-attachments/assets/828bccc8-8063-4304-a042-5cda58f40f65" />
+    </td>
+    <td width="50%">
+      <p align="center"><b>Write Prescription</b></p>
+      <img width="100%" alt="Write prescription" src="https://github.com/user-attachments/assets/5581693e-3730-4d09-9bf2-b9a7ca8600b6" />
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <p align="center"><b>Lab Tests Catalogue</b></p>
+      <img width="100%" alt="Lab tests" src="https://github.com/user-attachments/assets/480252d3-4fe2-4fee-bdb9-e313d18bc69e" />
+    </td>
+    <td width="50%">
+      <p align="center"><b>Lab Technician View</b></p>
+      <img width="100%" alt="Lab technician" src="https://github.com/user-attachments/assets/95bc99be-2c41-4194-b4dc-1ac5a63aa85f" />
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <p align="center"><b>Add Lab Result (Form)</b></p>
+      <img width="100%" alt="Add lab result 1" src="https://github.com/user-attachments/assets/5d58475b-ea8e-4e0c-b848-74952a49fd5b" />
+    </td>
+    <td width="50%">
+      <p align="center"><b>Add Lab Result (Complete)</b></p>
+      <img width="100%" alt="Add lab result 2" src="https://github.com/user-attachments/assets/071fd727-a26b-4cdf-8508-e19c42f563a3" />
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <p align="center"><b>Pharmacy Home</b></p>
+      <img width="100%" alt="Pharmacy home" src="https://github.com/user-attachments/assets/03cf0b35-4853-4cb2-ba61-9bf249eef9ef" />
+    </td>
+    <td width="50%">
+      <p align="center"><b>Add Medicine Item</b></p>
+      <img width="100%" alt="Add medicine" src="https://github.com/user-attachments/assets/b09b5d11-4170-4213-8e2a-0951c83fdae4" />
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <p align="center"><b>Add Inventory Stock</b></p>
+      <img width="100%" alt="Add stock" src="https://github.com/user-attachments/assets/aa2daa2f-79ff-4f64-aecb-dd54a47063a3" />
+    </td>
+    <td width="50%">
+      <p align="center"><b>Available Stock Status</b></p>
+      <img width="100%" alt="Available stock" src="https://github.com/user-attachments/assets/1ef63880-2655-43a1-9599-5f9ff6500a96" />
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <p align="center"><b>Expiring Stock Alerts</b></p>
+      <img width="100%" alt="Expiring stock" src="https://github.com/user-attachments/assets/9bfa6ee4-f4bf-4d39-8153-64b4bbeb0677" />
+    </td>
+    <td width="50%">
+      <p align="center"><b>Dispense Prescription</b></p>
+      <img width="100%" alt="Dispense prescription" src="https://github.com/user-attachments/assets/366ce9c7-86c3-4edb-9953-a6333889c843" />
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <p align="center"><b>Billing & Invoicing</b></p>
+      <img width="100%" alt="Billing" src="https://github.com/user-attachments/assets/87989418-e1f7-474b-b863-aa1b51cc104a" />
+    </td>
+    <td width="50%">
+      </td>
+  </tr>
 </table>
-
 ---
 
 ## 🔐 User Role Flow
