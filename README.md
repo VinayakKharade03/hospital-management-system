@@ -255,13 +255,14 @@ hospital-management-system/
 </td>
 <td width="50%">
 
-<!-- Add a screenshot here (e.g. Lab Reports, Add Lab Result, Billing Overview, or Invoice Details) -->
+**Add Lab Result**
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/5d58475b-ea8e-4e0c-b848-74952a49fd5b" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/071fd727-a26b-4cdf-8508-e19c42f563a3" />
+
 
 </td>
 </tr>
 </table>
-
-> Note: "Lab Reports", "Add Lab Result", "Billing Overview", "Create Invoice", "Invoice Details", and "Payment" screenshots were referenced via local `screenshots/` paths but no image was actually uploaded for them yet. Upload these to GitHub (drag-and-drop into a comment/PR/issue, or directly into the README editor on GitHub.com) to get a permanent `user-attachments` URL, then drop them into the empty cell above or add new rows.
 
 ---
 
