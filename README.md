@@ -97,6 +97,7 @@ hospital-management-system/
 
 **Auth**
 <img src="screenshots/auth_screen.png" width="100%"/>
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/b4a9cc0b-097c-4e27-9767-942038e4405d" />
 
 </td>
 <td width="50%">
