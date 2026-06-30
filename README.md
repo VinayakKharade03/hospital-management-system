@@ -96,15 +96,13 @@ hospital-management-system/
 <td width="50%">
 
 **Auth**
-<img src="screenshots/auth_screen.png" width="100%"/>
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/b4a9cc0b-097c-4e27-9767-942038e4405d" />
+<img width="100%" alt="Auth screen" src="https://github.com/user-attachments/assets/b4a9cc0b-097c-4e27-9767-942038e4405d" />
 
 </td>
 <td width="50%">
 
 **Admin Dashboard**
-<img src="screenshots/admin_dashboard.png" width="100%"/>
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/1e600b17-6523-4cea-9150-ed8e60a95513" />
+<img width="100%" alt="Admin dashboard" src="https://github.com/user-attachments/assets/1e600b17-6523-4cea-9150-ed8e60a95513" />
 
 </td>
 </tr>
@@ -112,15 +110,13 @@ hospital-management-system/
 <td width="50%">
 
 **Create User**
-<img src="screenshots/create_user.png" width="100%"/>
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/792198c4-7109-45ab-991b-e7af5692d1e5" />
+<img width="100%" alt="Create user" src="https://github.com/user-attachments/assets/792198c4-7109-45ab-991b-e7af5692d1e5" />
 
 </td>
 <td width="50%">
 
 **Doctors**
-<img src="screenshots/doctors.png" width="100%"/>
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/a80f8990-009a-4689-93b2-954f1a75b2af" />
+<img width="100%" alt="Doctors list" src="https://github.com/user-attachments/assets/a80f8990-009a-4689-93b2-954f1a75b2af" />
 
 </td>
 </tr>
@@ -128,15 +124,13 @@ hospital-management-system/
 <td width="50%">
 
 **Add Doctor**
-<img src="screenshots/add_doctor.png" width="100%"/>
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/9a8eeae7-54cb-4c87-aa61-23e9ee989b3f" />
+<img width="100%" alt="Add doctor" src="https://github.com/user-attachments/assets/9a8eeae7-54cb-4c87-aa61-23e9ee989b3f" />
 
 </td>
 <td width="50%">
 
 **Doctor Dashboard**
-<img src="screenshots/doctor_dashboard.png" width="100%"/>
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/ac518e33-c66e-4f9c-856b-0723d8b936ad" />
+<img width="100%" alt="Doctor dashboard" src="https://github.com/user-attachments/assets/ac518e33-c66e-4f9c-856b-0723d8b936ad" />
 
 </td>
 </tr>
@@ -144,15 +138,13 @@ hospital-management-system/
 <td width="50%">
 
 **Patients**
-<img src="screenshots/patients.png" width="100%"/>
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/ac2dba17-a05d-4cb6-baea-cea8fc282fc9" />
+<img width="100%" alt="Patients list" src="https://github.com/user-attachments/assets/ac2dba17-a05d-4cb6-baea-cea8fc282fc9" />
 
 </td>
 <td width="50%">
 
 **Add Patient**
-<img src="screenshots/add_patient.png" width="100%"/>
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/f230d184-26f0-4ddc-a15c-bb4bde9abbe5" />
+<img width="100%" alt="Add patient" src="https://github.com/user-attachments/assets/f230d184-26f0-4ddc-a15c-bb4bde9abbe5" />
 
 </td>
 </tr>
@@ -160,15 +152,13 @@ hospital-management-system/
 <td width="50%">
 
 **Appointments**
-<img src="screenshots/appointments.png" width="100%"/>
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/b92bc3df-3bc1-41d0-8c1c-f30f62af83dc" />
+<img width="100%" alt="Appointments list" src="https://github.com/user-attachments/assets/b92bc3df-3bc1-41d0-8c1c-f30f62af83dc" />
 
 </td>
 <td width="50%">
 
 **Book Appointment**
-<img src="screenshots/add_appointment.png" width="100%"/>
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/0d29a688-7c5e-4e1b-bfa7-76d08b467287" />
+<img width="100%" alt="Book appointment" src="https://github.com/user-attachments/assets/0d29a688-7c5e-4e1b-bfa7-76d08b467287" />
 
 </td>
 </tr>
@@ -176,15 +166,13 @@ hospital-management-system/
 <td width="50%">
 
 **Add Availability**
-<img src="screenshots/add_availability.png" width="100%"/>
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/7dce33d4-9a6d-4684-83ae-4ba9fa402ec0" />
+<img width="100%" alt="Add availability" src="https://github.com/user-attachments/assets/7dce33d4-9a6d-4684-83ae-4ba9fa402ec0" />
 
 </td>
 <td width="50%">
 
 **Visit Detail**
-<img src="screenshots/visit_detail.png" width="100%"/>
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/828bccc8-8063-4304-a042-5cda58f40f65" />
+<img width="100%" alt="Visit detail" src="https://github.com/user-attachments/assets/828bccc8-8063-4304-a042-5cda58f40f65" />
 
 </td>
 </tr>
@@ -192,15 +180,13 @@ hospital-management-system/
 <td width="50%">
 
 **Write Prescription**
-<img src="screenshots/write_prescription.png" width="100%"/>
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/5581693e-3730-4d09-9bf2-b9a7ca8600b6" />
+<img width="100%" alt="Write prescription" src="https://github.com/user-attachments/assets/5581693e-3730-4d09-9bf2-b9a7ca8600b6" />
 
 </td>
 <td width="50%">
 
 **Pharmacy Home**
-<img src="screenshots/pharmacy_home.png" width="100%"/>
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/03cf0b35-4853-4cb2-ba61-9bf249eef9ef" />
+<img width="100%" alt="Pharmacy home" src="https://github.com/user-attachments/assets/03cf0b35-4853-4cb2-ba61-9bf249eef9ef" />
 
 </td>
 </tr>
@@ -208,83 +194,55 @@ hospital-management-system/
 <td width="50%">
 
 **Add Medicine**
-<img src="screenshots/add_medicine.png" width="100%"/>
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/b09b5d11-4170-4213-8e2a-0951c83fdae4" />
+<img width="100%" alt="Add medicine" src="https://github.com/user-attachments/assets/b09b5d11-4170-4213-8e2a-0951c83fdae4" />
 
 </td>
 <td width="50%">
 
 **Add Stock**
-<img src="screenshots/add_stock.png" width="100%"/>
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/aa2daa2f-79ff-4f64-aecb-dd54a47063a3" />
+<img width="100%" alt="Add stock" src="https://github.com/user-attachments/assets/aa2daa2f-79ff-4f64-aecb-dd54a47063a3" />
 
 </td>
 </tr>
 <tr>
 <td width="50%">
 
-**Expiring  Stock**
-<img src="screenshots/dispense_medicine.png" width="100%"/>
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/9bfa6ee4-f4bf-4d39-8153-64b4bbeb0677" />
+**Expiring Stock**
+<img width="100%" alt="Expiring stock" src="https://github.com/user-attachments/assets/9bfa6ee4-f4bf-4d39-8153-64b4bbeb0677" />
 
 </td>
 <td width="50%">
 
-**Avilable Stock**
-<img src="screenshots/dispense_medicine.png" width="100%"/>
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/1ef63880-2655-43a1-9599-5f9ff6500a96" />
+**Available Stock**
+<img width="100%" alt="Available stock" src="https://github.com/user-attachments/assets/1ef63880-2655-43a1-9599-5f9ff6500a96" />
 
 </td>
+</tr>
+<tr>
 <td width="50%">
 
 **Dispense Prescription**
-<img src="screenshots/dispense_prescription.png" width="100%"/>
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/366ce9c7-86c3-4edb-9953-a6333889c843" />
+<img width="100%" alt="Dispense prescription" src="https://github.com/user-attachments/assets/366ce9c7-86c3-4edb-9953-a6333889c843" />
 
 </td>
-</tr>
-<tr>
 <td width="50%">
 
 **Lab Tests**
-<img src="screenshots/lab_tests.png" width="100%"/>
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/480252d3-4fe2-4fee-bdb9-e313d18bc69e" />
+<img width="100%" alt="Lab tests" src="https://github.com/user-attachments/assets/480252d3-4fe2-4fee-bdb9-e313d18bc69e" />
 
 </td>
+</tr>
+<tr>
 <td width="50%">
 
 **Lab Technician**
-<img src="screenshots/lab_technician.png" width="100%"/>
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/95bc99be-2c41-4194-b4dc-1ac5a63aa85f" />
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-**Lab Reports**
-<img src="screenshots/lab_reports.png" width="100%"/>
-
-</td>
-<td width="50%">
-
-**Add Lab Result**
-<img src="screenshots/add_lab_result.png" width="100%"/>
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-**Billing Overview**
-<img src="screenshots/billing_overview.png" width="100%"/>
+<img width="100%" alt="Lab technician" src="https://github.com/user-attachments/assets/95bc99be-2c41-4194-b4dc-1ac5a63aa85f" />
 
 </td>
 <td width="50%">
 
 **Billing**
-<img src="screenshots/billing.png" width="100%"/>
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/87989418-e1f7-474b-b863-aa1b51cc104a" />
+<img width="100%" alt="Billing" src="https://github.com/user-attachments/assets/87989418-e1f7-474b-b863-aa1b51cc104a" />
 
 </td>
 </tr>
@@ -292,12 +250,18 @@ hospital-management-system/
 <td width="50%">
 
 **Receptionist Dashboard**
-<img src="screenshots/receptionist_dashboard.png" width="100%"/>
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/1f62cf73-36c2-4d6d-b50a-94bfe0299337" />
+<img width="100%" alt="Receptionist dashboard" src="https://github.com/user-attachments/assets/1f62cf73-36c2-4d6d-b50a-94bfe0299337" />
+
+</td>
+<td width="50%">
+
+<!-- Add a screenshot here (e.g. Lab Reports, Add Lab Result, Billing Overview, or Invoice Details) -->
 
 </td>
 </tr>
 </table>
+
+> Note: "Lab Reports", "Add Lab Result", "Billing Overview", "Create Invoice", "Invoice Details", and "Payment" screenshots were referenced via local `screenshots/` paths but no image was actually uploaded for them yet. Upload these to GitHub (drag-and-drop into a comment/PR/issue, or directly into the README editor on GitHub.com) to get a permanent `user-attachments` URL, then drop them into the empty cell above or add new rows.
 
 ---
 
@@ -415,6 +379,8 @@ MAIL_USERNAME=your_email@gmail.com
 MAIL_PASSWORD=your_gmail_app_password
 ```
 
+> **JWT Secret:** Use a long, random string (32+ characters recommended) — this signs and verifies your JWT tokens. You can generate one quickly with `openssl rand -base64 32`.
+
 > **Gmail:** Use an [App Password](https://support.google.com/accounts/answer/185833), not your login password.
 
 Run the application:
@@ -468,6 +434,7 @@ All endpoints are documented with request/response schemas.
 |---|---|
 | `DB_USERNAME` | PostgreSQL username |
 | `DB_PASSWORD` | PostgreSQL password |
+| `JWT_SECRET` | Secret key used to sign and verify JWT tokens |
 | `MAIL_USERNAME` | Gmail address for notifications |
 | `MAIL_PASSWORD` | Gmail app password (not your login password) |
 
