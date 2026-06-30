@@ -53,26 +53,56 @@ class AppointmentService {
     );
   }
 
-  // ================= GET BY DOCTOR =================
+  // ================= GET BY DOCTOR (paginated) =================
 
-  Future<List<Appointment>> getAppointmentsByDoctor(
-      int doctorId,
-      ) async {
+  Future<AppointmentPage> getAppointmentsByDoctor(
+      int doctorId, {
+        int page = 0,
+        int size = 20,
+        String sort = "appointmentTime,desc",
+      }) async {
 
     final response = await dio.get(
       "/appointments/doctor/$doctorId",
+      queryParameters: {
+        "page": page,
+        "size": size,
+        "sort": sort,
+      },
     );
 
     final data = response.data;
 
-    final List content =
-    data is Map ? data['content'] : data;
+    // Support both: paginated Map response, or legacy flat List response
+    if (data is Map) {
+      final List content = data['content'] ?? [];
+      final bool isLast = data['last'] ?? true;
 
-    return content
-        .map<Appointment>(
-          (e) => Appointment.fromJson(e as Map<String, dynamic>),
-    )
-        .toList();
+      final appointments = content
+          .map<Appointment>(
+            (e) => Appointment.fromJson(e as Map<String, dynamic>),
+      )
+          .toList();
+
+      return AppointmentPage(
+        appointments: appointments,
+        hasMore: !isLast,
+      );
+    } else {
+      // Fallback: backend still returns a plain list (no pagination support yet)
+      final List content = data as List;
+
+      final appointments = content
+          .map<Appointment>(
+            (e) => Appointment.fromJson(e as Map<String, dynamic>),
+      )
+          .toList();
+
+      return AppointmentPage(
+        appointments: appointments,
+        hasMore: false,
+      );
+    }
   }
 
   // ================= CREATE =================

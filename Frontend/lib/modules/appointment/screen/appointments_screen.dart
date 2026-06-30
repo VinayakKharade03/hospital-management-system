@@ -36,7 +36,7 @@ class _AppointmentsScreenState
   String selectedFilter = "ALL";
   bool isLoading = true;
 
-  // Pagination state (only used for admin/receptionist path)
+  // Pagination state (now used for ALL roles, including doctor)
   int _currentPage = 0;
   bool _hasMore = false;
   bool _isLoadingMore = false;
@@ -68,22 +68,34 @@ class _AppointmentsScreenState
   }
 
   // =====================================================
-  // LOAD MORE (next page)
+  // LOAD MORE (next page) — works for all roles now
   // =====================================================
 
   Future<void> _loadMore() async {
-    // Doctors load all their own appointments at once — no pagination needed
-    final auth = context.read<AuthProvider>();
-    if (auth.role == UserRole.DOCTOR) return;
-
     if (_isLoadingMore || !_hasMore) return;
 
     setState(() => _isLoadingMore = true);
 
     try {
-      final result = await _service.getAppointments(
-        page: _currentPage + 1,
-      );
+      final auth = context.read<AuthProvider>();
+      final isDoctor = auth.role == UserRole.DOCTOR;
+
+      final AppointmentPage result;
+
+      if (isDoctor) {
+        final doctorId = auth.doctorId;
+        if (doctorId == null) {
+          throw Exception("Doctor profile missing");
+        }
+        result = await _service.getAppointmentsByDoctor(
+          doctorId,
+          page: _currentPage + 1,
+        );
+      } else {
+        result = await _service.getAppointments(
+          page: _currentPage + 1,
+        );
+      }
 
       setState(() {
         _currentPage++;
@@ -114,7 +126,7 @@ class _AppointmentsScreenState
       final auth = context.read<AuthProvider>();
       final isDoctor = auth.role == UserRole.DOCTOR;
 
-      // ✅ DOCTOR -> only own appointments (no pagination needed)
+      // ✅ DOCTOR -> own appointments, now paginated like admin/receptionist
 
       if (isDoctor) {
 
@@ -124,16 +136,20 @@ class _AppointmentsScreenState
           throw Exception("Doctor profile missing");
         }
 
-        final data = await _service.getAppointmentsByDoctor(doctorId);
+        final result = await _service.getAppointmentsByDoctor(
+          doctorId,
+          page: 0,
+        );
 
-        data.sort(
+        result.appointments.sort(
               (a, b) => DateTime.parse(b.appointmentTime)
               .compareTo(DateTime.parse(a.appointmentTime)),
         );
 
         setState(() {
-          appointments = data;
-          _hasMore = false;
+          _currentPage = 0;
+          _hasMore = result.hasMore;
+          appointments = result.appointments;
           isLoading = false;
         });
 

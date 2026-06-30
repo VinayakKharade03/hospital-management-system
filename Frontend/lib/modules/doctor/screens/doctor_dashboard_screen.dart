@@ -72,11 +72,14 @@ class _DoctorDashboardScreenState
         return;
       }
 
-      final fetchedAppointments =
+      final appointmentPage =
       await _appointmentService
           .getAppointmentsByDoctor(
         doctorId,
       );
+
+      final fetchedAppointments =
+          appointmentPage.appointments;
 
       final fetchedPatients =
       await _patientService.getPatients();
