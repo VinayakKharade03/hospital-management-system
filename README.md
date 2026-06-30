@@ -104,6 +104,7 @@ hospital-management-system/
 
 **Admin Dashboard**
 <img src="screenshots/admin_dashboard.png" width="100%"/>
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/1e600b17-6523-4cea-9150-ed8e60a95513" />
 
 </td>
 </tr>
@@ -112,12 +113,14 @@ hospital-management-system/
 
 **Create User**
 <img src="screenshots/create_user.png" width="100%"/>
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/792198c4-7109-45ab-991b-e7af5692d1e5" />
 
 </td>
 <td width="50%">
 
 **Doctors**
 <img src="screenshots/doctors.png" width="100%"/>
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/a80f8990-009a-4689-93b2-954f1a75b2af" />
 
 </td>
 </tr>
@@ -126,12 +129,14 @@ hospital-management-system/
 
 **Add Doctor**
 <img src="screenshots/add_doctor.png" width="100%"/>
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/9a8eeae7-54cb-4c87-aa61-23e9ee989b3f" />
 
 </td>
 <td width="50%">
 
 **Doctor Dashboard**
 <img src="screenshots/doctor_dashboard.png" width="100%"/>
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/ac518e33-c66e-4f9c-856b-0723d8b936ad" />
 
 </td>
 </tr>
@@ -140,12 +145,14 @@ hospital-management-system/
 
 **Patients**
 <img src="screenshots/patients.png" width="100%"/>
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/ac2dba17-a05d-4cb6-baea-cea8fc282fc9" />
 
 </td>
 <td width="50%">
 
 **Add Patient**
 <img src="screenshots/add_patient.png" width="100%"/>
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/f230d184-26f0-4ddc-a15c-bb4bde9abbe5" />
 
 </td>
 </tr>
@@ -154,12 +161,14 @@ hospital-management-system/
 
 **Appointments**
 <img src="screenshots/appointments.png" width="100%"/>
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/b92bc3df-3bc1-41d0-8c1c-f30f62af83dc" />
 
 </td>
 <td width="50%">
 
-**Add Appointment**
+**Book Appointment**
 <img src="screenshots/add_appointment.png" width="100%"/>
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/0d29a688-7c5e-4e1b-bfa7-76d08b467287" />
 
 </td>
 </tr>
@@ -168,12 +177,14 @@ hospital-management-system/
 
 **Add Availability**
 <img src="screenshots/add_availability.png" width="100%"/>
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/7dce33d4-9a6d-4684-83ae-4ba9fa402ec0" />
 
 </td>
 <td width="50%">
 
 **Visit Detail**
 <img src="screenshots/visit_detail.png" width="100%"/>
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/828bccc8-8063-4304-a042-5cda58f40f65" />
 
 </td>
 </tr>
@@ -182,12 +193,14 @@ hospital-management-system/
 
 **Write Prescription**
 <img src="screenshots/write_prescription.png" width="100%"/>
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/5581693e-3730-4d09-9bf2-b9a7ca8600b6" />
 
 </td>
 <td width="50%">
 
 **Pharmacy Home**
 <img src="screenshots/pharmacy_home.png" width="100%"/>
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/03cf0b35-4853-4cb2-ba61-9bf249eef9ef" />
 
 </td>
 </tr>
@@ -196,26 +209,37 @@ hospital-management-system/
 
 **Add Medicine**
 <img src="screenshots/add_medicine.png" width="100%"/>
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/b09b5d11-4170-4213-8e2a-0951c83fdae4" />
 
 </td>
 <td width="50%">
 
 **Add Stock**
 <img src="screenshots/add_stock.png" width="100%"/>
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/aa2daa2f-79ff-4f64-aecb-dd54a47063a3" />
 
 </td>
 </tr>
 <tr>
 <td width="50%">
 
-**Dispense Medicine**
+**Expiring  Stock**
 <img src="screenshots/dispense_medicine.png" width="100%"/>
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/9bfa6ee4-f4bf-4d39-8153-64b4bbeb0677" />
+
+</td>
+<td width="50%">
+
+**Avilable Stock**
+<img src="screenshots/dispense_medicine.png" width="100%"/>
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/1ef63880-2655-43a1-9599-5f9ff6500a96" />
 
 </td>
 <td width="50%">
 
 **Dispense Prescription**
 <img src="screenshots/dispense_prescription.png" width="100%"/>
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/366ce9c7-86c3-4edb-9953-a6333889c843" />
 
 </td>
 </tr>
@@ -224,12 +248,14 @@ hospital-management-system/
 
 **Lab Tests**
 <img src="screenshots/lab_tests.png" width="100%"/>
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/480252d3-4fe2-4fee-bdb9-e313d18bc69e" />
 
 </td>
 <td width="50%">
 
 **Lab Technician**
 <img src="screenshots/lab_technician.png" width="100%"/>
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/95bc99be-2c41-4194-b4dc-1ac5a63aa85f" />
 
 </td>
 </tr>
@@ -258,34 +284,16 @@ hospital-management-system/
 
 **Billing**
 <img src="screenshots/billing.png" width="100%"/>
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/87989418-e1f7-474b-b863-aa1b51cc104a" />
 
 </td>
 </tr>
 <tr>
-<td width="50%">
-
-**Create Invoice**
-<img src="screenshots/create_invoice.png" width="100%"/>
-
-</td>
-<td width="50%">
-
-**Invoice Details**
-<img src="screenshots/invoice_details.png" width="100%"/>
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-**Payment**
-<img src="screenshots/payment.png" width="100%"/>
-
-</td>
 <td width="50%">
 
 **Receptionist Dashboard**
 <img src="screenshots/receptionist_dashboard.png" width="100%"/>
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/1f62cf73-36c2-4d6d-b50a-94bfe0299337" />
 
 </td>
 </tr>
