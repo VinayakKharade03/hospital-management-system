@@ -401,6 +401,7 @@ Set the required environment variables:
 ```bash
 DB_USERNAME=postgres
 DB_PASSWORD=your_db_password
+JWT_SECRET=your_long_random_secret_key
 MAIL_USERNAME=your_email@gmail.com
 MAIL_PASSWORD=your_gmail_app_password
 ```
